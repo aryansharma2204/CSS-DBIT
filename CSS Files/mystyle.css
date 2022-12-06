@@ -1,0 +1,5 @@
+body {background-color: lightblue;}
+  
+  h1{color: navy;}
+  h2,h3,h4,h5,h6{color : green;} /*We can give multiple tags also and alternative of this is class but we have to call class*/
+  /*No Tag in CSS file*/
